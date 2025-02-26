@@ -48,6 +48,7 @@ className="relative w-full h-[400px] bg-gray-200"
           <p className="text-gray-500 text-2xl
           text-center
           
+          
           ">Loading...</p>
         </div>
 
